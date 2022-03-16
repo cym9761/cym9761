@@ -1,4 +1,3 @@
-# homework
 
 
 是个已退役的ACMer
